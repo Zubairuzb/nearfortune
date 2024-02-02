@@ -14,7 +14,7 @@ export default function HelloComponents() {
   return (
     <>
       <main class="container-fluid">
-            <Navigation />
+          
             <Component src={socialComponents.nearFortune} />
            
       </main>
